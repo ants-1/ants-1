@@ -2,9 +2,9 @@
 
 I'm a passionate computer science student studying at the University of Westminster
 
-- 🔭 I’m currently working on [calcountai](https://github.com/ants-1/calcountai)
+- 🔭 I’m currently working on [linko](https://github.com/ants-1/linko)
 
-- 🌱 I’m currently learning **React Native and TypeScript**
+- 🌱 I’m currently learning **Next.js**
 
 ---
 
