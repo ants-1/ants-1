@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Anthony</h1>
-<p>A passionate computer science graduate from the University of Westminster.</p>
-<p>🔭 I’m currently working on <a href="https://github.com/ants-1/linko" target="_blank">linko</a> and <a href="https://github.com/ants-1/roofsy" target="_blank">roofsy</a></p>
-<p>🌱 I’m currently learning <strong>Next.js</strong></p>
+<p>I’m a recent Computer Science graduate from the University of Westminster with a passion for creating scalable and intuitive web applications. I enjoy solving challenging problems and constantly expanding my expertise in the latest web technologies.</p>
+<p>🔭 I’m currently working on <a href="https://github.com/ants-1/prepify" target="_blank">Prepify</a> a meal planner website.</p>
+<p>🌱 I’m currently learning <strong>Next.js</strong> and <strong>Spring Boot.</strong></p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
@@ -27,4 +27,4 @@
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/anthony-salisbury-3a1a06296/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ants-1&show_icons=true&locale=en" alt="ants-1" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ants-1&" alt="ants-1" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ants-1&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="ants-1" /></p>
