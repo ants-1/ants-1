@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Anthony</h1>
 <p>I’m a recent Computer Science graduate from the University of Westminster with a passion for creating scalable and intuitive web applications. I enjoy solving challenging problems and constantly expanding my expertise in the latest web technologies.</p>
 <p>🔭 I’m currently working on <a href="https://github.com/ants-1/prepify" target="_blank">Prepify</a> a meal planner website.</p>
-<p>🌱 I’m currently learning <strong>Next.js</strong> and <strong>Spring Boot.</strong></p>
+<p>🌱 I’m currently learning <strong>Next.js</strong>.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
