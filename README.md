@@ -6,7 +6,7 @@
 <h2>🚀 Tools & Tech</h2>
 
 <ul>
-  <li><strong>Frontend:</strong> React, TypeScript, Tailwind CSS, Next.js</li>
+  <li><strong>Frontend:</strong> JavaScript, React, TypeScript, Tailwind CSS, Next.js</li>
   <li><strong>Backend:</strong> Node.js, Express, Python, Java</li>
   <li><strong>Databases & ORM:</strong> MongoDB, PostgreSQL, Prisma</li>
 </ul>
